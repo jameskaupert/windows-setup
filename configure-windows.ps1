@@ -29,6 +29,7 @@ $apps = @(
     @{name = "Discord.Discord" },
     @{name = "GIMP.GIMP" },
     @{name = "Git.Git" },
+    @{name = "GitHub.cli" },
     @{name = "GoLang.Go.1.20" },
     @{name = "Google.Chrome" },
     @{name = "Google.Drive" },
